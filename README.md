@@ -1,9 +1,9 @@
-# Hello, I'm Clarence 👋
+# Welcome to Clarence's Code Hub 👋
 
 ## About Me
-- 🌱 I’m currently learning **Data Science and Machine Learning**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 📫 How to reach me: **cmwh.work@gmail.com**
+Greetings! I'm a passionate business and people developer with a deep interest in data-driven innovation. With extensive experience in business development, leadership, and stakeholder management, I've recently ventured into the fascinating world of data science. This is my digital playground where I experiment with code, explore cutting-edge technologies, and share the results of my data science endeavors. Feel free to dive into my repositories and witness the fusion of my established expertise with my new passion for data.
+
+For a comprehensive overview of my data science projects, please visit <a href="https://clarencemun.github.io/#">my portfolio page</a>. You can also learn more about my professional background on <a href="https://clarencemun.github.io">my LinkedIn profile</a>my LinkedIn profile.
 
 ## Technologies I Use
 - Python
