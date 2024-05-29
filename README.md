@@ -5,7 +5,7 @@ Greetings! I'm a passionate business and people developer with a deep interest i
 
 This is my digital playground where I experiment with code, explore cutting-edge technologies, and share the results of my data science endeavors. Feel free to dive into my repositories and witness the fusion of my established expertise with my new passion for data.
 
-For a comprehensive overview of my data science projects, please visit <a href="https://clarencemun.github.io/#">my portfolio page</a>. You can also learn more about my professional background on <a href="https://clarencemun.github.io">my LinkedIn profile</a>my LinkedIn profile.
+For a comprehensive overview of my data science projects, please visit <a href="https://clarencemun.github.io/#">my portfolio page</a>. You can also learn more about my professional background on <a href="https://clarencemun.github.io">my LinkedIn profile</a>.
 
 ## Technologies I Use
 - Python
